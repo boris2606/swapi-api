@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002Ffilms\u002F[filmTitle]","\u002Fpeople\u002F[peopleName]","\u002Fplanets\u002F[planetName]","\u002Fspecies\u002F[specieName]","\u002Fstarships\u002F[starshipName]","\u002Fvehicles\u002F[vehicleName]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
